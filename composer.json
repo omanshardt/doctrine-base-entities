@@ -11,9 +11,7 @@
   "name" : "omanshardt/doctrine-base-entites",
   "require": {
     "php": ">=5.3.0",
-    "doctrine/dbal": "~2.5"
-  },
-  "require-dev": {
+    "doctrine/dbal": "~2.5",
     "doctrine/orm": "~2.5"
   },
   "type": "library"
