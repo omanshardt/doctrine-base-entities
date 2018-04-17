@@ -1,7 +1,7 @@
 {
   "autoload": {
     "psr-4": {
-      "DoctrineBaseEntities\\": "src/"
+      "DoctrineBaseEntities\\": ""
     }
   },
   "description": "Helper library to provide base functionality to doctrine entities such as setting creation and modification date and interleaved checksumming of entities (checksumming every entity with respect to it's predescessor)",
