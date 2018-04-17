@@ -1,14 +1,14 @@
 {
   "autoload": {
     "psr-4": {
-      "Omanshardt\\DBE\\": "src/"
+      "DoctrineBaseEntities\\": "src/"
     }
   },
   "description": "Helper library to provide base functionality to doctrine entities such as setting creation and modification date and interleaved checksumming of entities (checksumming every entity with respect to it's predescessor)",
   "homepage": "https://github.com/omanshardt/doctrine-base-entities",
   "keywords": [ "doctrine" ],
   "license": "MIT",
-  "name" : "omanshardt/doctrine-base-entites",
+  "name" : "omanshardt/doctrine-base-entities",
   "require": {
     "php": ">=5.3.0",
     "doctrine/dbal": "~2.5",
